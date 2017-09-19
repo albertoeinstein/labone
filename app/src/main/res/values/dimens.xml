@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="paddingRight">18dp</dimen>
+    <dimen name="paddingLeft">18dp</dimen>
+    <dimen name="paddingBottom">18dp</dimen>
+    <dimen name="paddingTop">18dp</dimen>
+    <dimen name="layout_width">18dp</dimen>
+    <dimen name="layout_height">18dp</dimen>
+    <dimen name="layout_gravity">18dp</dimen>
+    <dimen name="layout_marginTop">18dp</dimen>
+</resources>
